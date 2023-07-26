@@ -10,7 +10,7 @@ void main() {
 
 	while (1)
 	{
-		printf("*\n", i++);
+		printf("*", i++);
 		if (i > num)
 			break;
 	}
