@@ -15,13 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1.c">
+    <ClCompile Include="Advvance1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2.c">
+    <ClCompile Include="Advvance2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3.c">
+    <ClCompile Include="Advvance3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Advvance4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,25 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1.c">
+    <ClCompile Include="Advance1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2.c">
+    <ClCompile Include="Advance2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2-1.c">
+    <ClCompile Include="Advance2-1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3.c">
+    <ClCompile Include="Advance3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="4.c">
+    <ClCompile Include="Advance4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="5.c">
+    <ClCompile Include="Advance5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="6.c">
+    <ClCompile Include="Advance6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
